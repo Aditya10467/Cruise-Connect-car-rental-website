@@ -4,9 +4,9 @@ import AWS from 'aws-sdk'
 
 config()
 AWS.config = new AWS.Config();
-AWS.config.accessKeyId = "AKIAXYKJR6WDQLKOCFQN";
-AWS.config.secretAccessKey = "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";
-AWS.config.region = "ap-southeast-2";
+AWS.config.accessKeyId = process.env.AWS_ACCESSKEYID;
+AWS.config.secretAccessKey = process.env.AWS_SECRETACCESSKEY;
+AWS.config.region = process.env.AWS_REGION;
 
 export const s3Uploadv2 = async (files) => {
   const s3 = new AWS.S3()
