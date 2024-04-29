@@ -6,7 +6,8 @@ Stripe,
 testing-library,
 React,
 React Router, 
-and Tailwind CSS.
+and Tailwind CSS,
+AWS.
 
 ## 🔍 Table of Contents
 
