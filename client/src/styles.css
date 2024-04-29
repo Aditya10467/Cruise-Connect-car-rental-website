@@ -1,0 +1,11 @@
+.custom-link {
+    color: #50a4f7;
+    text-decoration: none;
+    font-style: italic;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    transition: color 0.3s ease; /* Smooth transition for color change */
+  }
+  
+  .custom-link:hover {
+    color: #7e22ef; /* Change to the desired hover color */
+  }
