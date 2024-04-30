@@ -9,7 +9,7 @@ Cruise Connect is a MERN stack app with essential dependencies like Redux Toolki
 
 * [⚙️ Setting Up](#-setting-up)
 
-* [🚀 Run Locally](#-run-locally)
+
 
 
 
