@@ -3,13 +3,14 @@ Cruise Connect is a MERN stack app with essential dependencies like Redux Toolki
 
 ## 🔍 Table of Contents
 
-* [📝 Project Summary](#-project-summary)
+* [📝Project Summary](#-project-summary)
 
-* [💻 Stack](#-stack)
+* [💻Stack](#-stack)
 
-* [⚙️ Setting Up](#-setting-up)
+* [⚙️Setting Up](#-setting-up)
 
-📝 Project Summary
+
+### 📝Project Summary
 client/src: Contains the main source code of the client-side application.
 client/src/api: Handles API requests and responses.
 client/src/app: Contains the main application files and components.
@@ -21,7 +22,7 @@ client/src/utils: Provides utility functions and helper methods.
 server/controllers: Implements the logic for handling HTTP requests.
 server/models: Defines the data models used by the server.
 
-💻 Stack
+### 💻Stack
 
 reduxjs/toolkit: A library that simplifies Redux state management.
 stripe/react-stripe-js: React components for integrating Stripe payments.
@@ -32,7 +33,7 @@ react-dom: Provides the DOM-specific methods for React.
 react-redux: Official React bindings for Redux.
 react-router-dom: Declarative routing for React applications.
 
-⚙️ Setting Up
+### ⚙️Setting Up
 
 Environment Variables
 To run this project, you will need to add the following environment variables to your .env file in the server folder
