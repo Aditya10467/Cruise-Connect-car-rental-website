@@ -22,7 +22,7 @@ const Footer = () => {
       <div>
         <div className="grid grid-flow-col gap-4">
           <a
-            href="https://fisnik.dev"
+            href="https://cruise-connect-70v3.onrender.com"
             target="_blank"
             rel="noreferrer"
             className="tooltip"
@@ -31,7 +31,7 @@ const Footer = () => {
             <FaLink className="link text-2xl" />
           </a>
           <a
-            href="https://github.com/fiskryeziu"
+            href="https://github.com/Aditya10467"
             target="_blank"
             rel="noreferrer"
             className="tooltip"
